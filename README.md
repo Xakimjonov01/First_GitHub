@@ -1,2 +1,2 @@
-# First_GitHub
+# First work in GitHub
 Beginner
